@@ -1,2 +1,1 @@
-# miscjsontools
-just what it says on the tin
+Json tools for labview. This includes a parser (really more of a tokenizer) and a manual json generation library.
